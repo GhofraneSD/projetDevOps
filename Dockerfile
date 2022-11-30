@@ -6,3 +6,4 @@ COPY . .
 EXPOSE 3000
 CMD [ "node", "index.js" ]
 #test#
+commit 2222222
